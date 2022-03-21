@@ -19,6 +19,6 @@ Manual Method:
   7. The file should open into your default app for the file type
 
 
-
+‎
 
 Made with ❤️ By Gureet Sidhu
