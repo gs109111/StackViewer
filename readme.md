@@ -1,10 +1,11 @@
 # View/Open Files From MacOS Trash
 
 Simple:
-
-  1. Download The FileViewer Executable (From The Releases) and Double Click It To Run
-  2. Drag a file into the window
-  3. The file should open into your default app for the file type
+  1. Open The Trash
+  2. Find a file for viewing
+  3. Download The FileViewer Executable (From The Releases) and Double Click It To Run
+  4. Drag a file into the window
+  5. The file should open into your default app for the file type
 
 
 Manual Method:
